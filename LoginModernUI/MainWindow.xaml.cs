@@ -24,5 +24,11 @@ namespace LoginModernUI
         {
             InitializeComponent();
         }
+
+        private void MainWindow_onMouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.LeftButton == MouseButtonState.Pressed)
+                DragMove();
+        }
     }
 }
