@@ -1,6 +1,3 @@
-# LoginModernUI
-[![LinkedIn][linkedin-shield]][https://eg.linkedin.com/in/mohamed-samy92]
-
 
 
 <!-- PROJECT LOGO -->
@@ -35,11 +32,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![GitHub Logo](https://github.com/Morisamy/LoginModernUI/blob/master/Login.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Morisamy/LoginModernUI/blob/master/Login.png)
 
 a Login Window Form Using a Clear Design
-/ C# WPF Forms: `Morisamy`, `LoginModernUI`, `mohamed-samy92`
+/ C# WPF Forms: `Morisamy`, `LoginModernUI`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
