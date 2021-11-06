@@ -27,19 +27,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   
   </ol>
 </details>
 
@@ -48,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/43931403/140613055-06d01483-d161-4302-a85e-4a4c8f007ec3.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Morisamy/LoginModernUI/blob/master/Login.png)
 
 a Login Window Form Using a Clear Design
 / C# WPF Forms: `Morisamy`, `LoginModernUI`, `mohamed-samy92`
